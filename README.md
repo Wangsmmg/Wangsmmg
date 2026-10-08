@@ -1,7 +1,7 @@
-# wsc
+# Wangsmmg
 
 公开的代码，写在这里。
 
-[GitHub](https://github.com/wsc-wuyue)
+[GitHub](https://github.com/Wangsmmg)
 
 自 2025 年起。新的仓库会出现在主页。
